@@ -33,7 +33,7 @@ const HeroSection = () => {
             transition={{ duration: 0.7, delay: 0.2 }}
             className="text-center lg:text-left"
           >
-            <p className="font-mono text-primary text-sm tracking-widest uppercase mb-3">Senior Python Engineer</p>
+            <p className="font-mono text-primary text-sm tracking-widest uppercase mb-3">Senior Software Engineer</p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4">
               Krzysztof{" "}
               <span className="gradient-text">Bednarczuk</span>

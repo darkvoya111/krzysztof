@@ -15,10 +15,15 @@ const experiences = [
     period: "May 2025 — Present",
     location: "Remote",
     bullets: [
-      "Designed backend services using Python, Django, and Flask for healthcare analytics platforms.",
-      "Built RESTful APIs for large-scale healthcare datasets, improving data accessibility.",
-      "Optimized ETL workflows, reducing reporting latency by 31% across high-volume records.",
-      "Integrated services with PostgreSQL and enterprise data pipelines.",
+      "Engineered scalable full stack healthcare analytics applications using Go, C#, Java, Python, Django, Flask, JavaScript, HTML, CSS, and PostgreSQL, supporting clinical, financial, and operational reporting workflows for enterprise teams.",
+      "Built secure RESTful APIs and internal data services for high-volume healthcare datasets, improving data availability for dashboards and downstream reporting tools across multiple business units.",
+      "Developed responsive reporting interfaces and integrated them with backend services, improving data access efficiency for internal stakeholders and contributing to 99.9% application availability in production.",
+      "Optimized PostgreSQL queries, ETL pipelines, and background processing jobs, reducing reporting latency by 31% across 1M+ healthcare data records and improving report generation consistency.",
+      "Implemented reusable service components and frontend-ready modules, reducing repetitive engineering effort by 25% and accelerating feature delivery across reporting applications.",
+      "Collaborated with product managers, data engineers, and QA teams to deliver stable releases in Agile cycles, helping improve release reliability to 98% on-time sprint completion.",
+      "Strengthened application quality through unit testing, debugging, code reviews, and performance tuning, reducing production issues by 22% across core service layers.",
+      "Improved reliability of backend reporting workflows and service integrations, helping maintain 99.95% data processing accuracy across recurring analytics operations.",
+
     ],
   },
   {
@@ -28,10 +33,14 @@ const experiences = [
     period: "June 2020 — April 2025",
     location: "Remote",
     bullets: [
-      "Developed scalable web applications using Python, Django, JavaScript for online learning workflows.",
-      "Created responsive interfaces improving learner progress tracking speed by 27%.",
-      "Implemented reusable components accelerating feature delivery across modules.",
-      "Optimized SQL queries and server-side processing for platform efficiency.",
+      "Developed scalable full stack web applications using Go, C#, Java, Python, Django, JavaScript, HTML, CSS, and SQL, supporting learning paths, assessments, hands-on labs, and learner engagement experiences.",
+      "Built and maintained backend APIs, business logic modules, and database-driven features for training workflows, helping support 100K+ monthly active users across learning platforms.",
+      "Designed and implemented responsive user-facing interfaces integrated with Go, C#, Java, Python backend services, improving learner progress tracking speed by 27% and increasing overall platform responsiveness by 24%.",
+      "Delivered reusable frontend components and backend utilities that accelerated development across multiple application modules, reducing feature delivery time by 20%.",
+      "Optimized SQL queries, request handling, and server-side processing flows, improving application efficiency and helping sustain 99.9% platform uptime in production environments.",
+      "Partnered closely with product managers, designers, and engineers to translate business requirements into reliable full stack solutions with strong usability, performance, and maintainability.",
+      "Supported testing, debugging, deployment, and release activities across continuous delivery cycles, reducing post-release defects by 18% and improving release stability.",
+      "Contributed to team performance through code reviews, mentoring, and cross-functional collaboration, helping improve development workflow efficiency by 15% across the engineering lifecycle.",
     ],
   },
   {
@@ -41,10 +50,9 @@ const experiences = [
     period: "Nov 2018 — May 2020",
     location: "Lehi, UT",
     bullets: [
-      "Built secure backend services for financial connectivity using Go, Kubernetes, PostgreSQL.",
-      "Improved account-link rates by 24% across 150+ partner institutions.",
-      "Developed data pipelines supporting 2.3M+ daily events, reducing latency by 19%.",
-      "Improved platform uptime to 99.95% by strengthening authentication flows.",
+      "Built secure backend services for account aggregation and financial connectivity using Go, Kubernetes, PostgreSQL, and REST APIs, improving successful account-link rates by 24% across 150+ partner institutions.",
+      "Developed data pipelines for transaction cleansing, categorization, and enrichment, supporting 2.3M+ daily events while reducing processing latency by 19%.",
+      "Strengthened authentication and reliability across open-finance integrations, decreasing API failure rates by 21% and improving platform uptime to 99.95%.",
     ],
   },
   {
@@ -54,8 +62,7 @@ const experiences = [
     period: "Oct 2016 — Sep 2018",
     location: "Salt Lake City, UT",
     bullets: [
-      "Engineered data services for clinical, financial, and operational analytics dashboards.",
-      "Reduced reporting latency by 31% across 1M+ healthcare data records using Java, PostgreSQL, and REST APIs.",
+      "Engineered data services for clinical, financial, and operational analytics dashboards using Java, PostgreSQL, and REST APIs, reducing reporting latency by 31% across 1M+ healthcare data records.",
     ],
   },
   {
